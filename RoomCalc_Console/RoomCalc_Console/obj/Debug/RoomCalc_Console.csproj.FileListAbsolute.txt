@@ -1,0 +1,6 @@
+C:\Users\slage\Desktop\C# Bootcamp\RoomCalc_Console\RoomCalc_Console\RoomCalc_Console\bin\Debug\RoomCalc_Console.exe.config
+C:\Users\slage\Desktop\C# Bootcamp\RoomCalc_Console\RoomCalc_Console\RoomCalc_Console\bin\Debug\RoomCalc_Console.exe
+C:\Users\slage\Desktop\C# Bootcamp\RoomCalc_Console\RoomCalc_Console\RoomCalc_Console\bin\Debug\RoomCalc_Console.pdb
+C:\Users\slage\Desktop\C# Bootcamp\RoomCalc_Console\RoomCalc_Console\RoomCalc_Console\obj\Debug\RoomCalc_Console.csprojResolveAssemblyReference.cache
+C:\Users\slage\Desktop\C# Bootcamp\RoomCalc_Console\RoomCalc_Console\RoomCalc_Console\obj\Debug\RoomCalc_Console.exe
+C:\Users\slage\Desktop\C# Bootcamp\RoomCalc_Console\RoomCalc_Console\RoomCalc_Console\obj\Debug\RoomCalc_Console.pdb
